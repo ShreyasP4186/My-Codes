@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("ppt\ back.jpg");
+
+}
+h1{
+    font-size: 40px;
+    margin-top: 150px;
+    color: azure;
+}
+form{
+    font-weight: bold;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+button{
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+background-color: #81bc83;
+}
+p{
+    font-size: 17px;
+    margin-top: 10px;
+    color: azure;
+}
